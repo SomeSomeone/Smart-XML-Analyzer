@@ -31,7 +31,7 @@ It element seems good
                             <a href='index.html'><i class='fa fa-dashboard fa-fw'/> Dashboard</a>
                         </li>
                     </ul>
-Becose:
+Because:
 The Selector matches 100.0% => 1.0 point(s)
 The Name like origin => 1 point(s)
 The Text like origin => 1 point(s)

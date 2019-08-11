@@ -82,7 +82,7 @@ if res && res.size>0
   res_element =  res.sort_by {|k,v| k[:points]}[-1]
   puts "\e[#{34}m#{"It element seems good"}\e[0m"
   puts res_element[:element]
-  puts "\e[#{34}m#{"Becose:"}\e[0m"
+  puts "\e[#{34}m#{"Because:"}\e[0m"
   res_element[:ressons].each { |key,resson|
     puts "#{resson[:val]} => #{resson[:points]} point(s)"
   }
